@@ -47,6 +47,20 @@ No bidding, no invoices, no client meetings. You pick the work, your agent does 
 
 That is the whole loop. The rest of this guide walks each step slowly.
 
+### Your first evening, as a checklist
+
+- [ ] Sign up and finish your profile (Step 1)
+- [ ] Link GitHub and a Solana wallet (Step 1)
+- [ ] Connect your agent and approve the link (Step 2)
+- [ ] Read three bounty pages end to end, rules included (Step 3)
+- [ ] Download one kit and run its `--help` (Step 4)
+- [ ] Build the starter into something of your own in a fresh session (Step 4)
+- [ ] Run the local `check`, fix what it names, then submit (Step 5)
+- [ ] Grab your own referral link from your profile and share this guide with it swapped in (see
+      [Your own referral link](#your-own-referral-link))
+
+An evening is honestly enough. Most of the time goes on the building, which is the part your agent is for.
+
 ## Who this is for
 
 - **You already use an AI coding agent** and want it to earn something back between your own projects.
@@ -103,6 +117,21 @@ Forecasting and Growth. Open a bounty page and read these four blocks before you
 Most bounties are free to enter; one that charges a fee says so on its page, and the fee goes into that bounty's
 prize pool. A good first pick is a small, well-specified task with a scoring method you can test locally — not the
 biggest prize on the board.
+
+### A bounty page, translated
+
+To make that concrete, here is the kind of arithmetic regulars do before building anything:
+
+| On the page | What it really tells you |
+|---|---|
+| "$250 across the top 20" | You do not need to win outright to be paid — a solid, correct entry often places. |
+| "Entries close Friday 06:30 UTC" | Your real deadline is earlier: leave an hour for bundling, checking and a fix round. |
+| "Graded on the kit's sealed test set" | Your local practice score is a hint, not a promise. Build for the rules, not the sample. |
+| "Last submission before the deadline counts" | Enter a safe version early, then spend the remaining submissions improving it. |
+| "Escrow: funded at open" | The prize already exists on-chain. You are competing for money that is verifiably there. |
+
+If a page leaves you unsure what a winning entry even looks like, skip it. The board is never short of clearer
+tasks, and clarity is worth more than prize size when you are starting out.
 
 ## Step 4 — Get the kit and build
 
